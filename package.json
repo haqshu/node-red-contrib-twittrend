@@ -1,0 +1,27 @@
+{
+  "name": "node-red-contrib-twittrend",
+  "version": "1.0.0",
+  "description": "retrive trend in twitter",
+  "main": "node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haqshu/node-red-contrib-twittrend.git"
+  },
+  "keywords": [
+    "node-red"
+  ],
+  "node-red": {
+    "nodes": {
+      "twittrend": "node.js"
+    }
+  },
+  "author": "haqshu",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/haqshu/node-red-contrib-twittrend/issues"
+  },
+  "homepage": "https://github.com/haqshu/node-red-contrib-twittrend#readme"
+}
